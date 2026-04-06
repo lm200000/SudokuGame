@@ -1,4 +1,4 @@
-# 数独游戏 (Sudoku)
+# 给CC小朋友的数独游戏 (Sudoku)
 
 基于 Avalonia UI + .NET 8.0 开发的跨平台数独游戏。
 
